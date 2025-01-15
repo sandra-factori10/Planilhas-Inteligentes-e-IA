@@ -19,5 +19,7 @@ Apresentei os resultados do projeto para a [DIO](https://dio.me) sobre o Desafio
 
 Excelente aula do expert [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
-## 💭 Muito aprendizado sobre PLanilhas Excel e IAS
+## 💭 Muito aprendizado sobre Planilhas Excel e IAS
+
+⌨️ [Sandra Factori](https://github.com/sandra-factori10)
 
